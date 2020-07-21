@@ -1,8 +1,6 @@
 # Google Drive - encrypted folder copy
 --
 ### Original Source- [@anadius](https://github.com/anadius)
-
-
 ### How to Use:
   - Create [Heroku](https://signup.heroku.com/) Account 
   - Click 'Deploy to Heroku' Button
