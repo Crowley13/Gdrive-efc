@@ -1,6 +1,5 @@
 {
   "name": "Google Drive - encrypted folder copy",
   "description": "Encrypt Gdrive Links",
-  "repository": "",
-  "keywords": ["Gdrive", "encrypted", "cloud"]
+  "repository": "https://github.com/Crowley13/Gdrive-efc",  
 }
